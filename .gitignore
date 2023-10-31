@@ -10,3 +10,12 @@ node_modules
 .output
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Visual Studio Code
+.idea
+.DS_Store
+.vscode/*
+!.vscode/launch.json
+node_modules
+.eslintcache
+*.code-workspace
