@@ -1,7 +1,7 @@
 module.exports = {
     extends: [
       // add more generic rule sets here, such as:
-      'eslint:recommended',
+      // 'eslint:recommended',
       'plugin:svelte/recommended'
     ],
     rules: {
