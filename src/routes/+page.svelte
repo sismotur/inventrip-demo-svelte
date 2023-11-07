@@ -6,13 +6,15 @@
 
 <p>Visit <a href="https://inventrip.com">Inventrip</a> for more information</p>
 
-<button type="button" on:click={() => (n += 1)} class="btn btn-primary">Inc N</button>
-<button type="button" on:click={() => (n += 1)} class="btn btn-success">Success</button>
+<button type="button" on:click={() => (n += 1)} class="btn btn-primary"
+  >Inc N</button
+>
+<button type="button" on:click={() => (n += 1)} class="btn btn-success"
+  >Success</button
+>
 
 <style lang="postcss">
   :global(html) {
     background-color: theme(colors.gray.100);
   }
 </style>
-
-  
