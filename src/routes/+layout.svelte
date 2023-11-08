@@ -4,9 +4,10 @@
 
 <div class="bg-gray-400 text-white py-4">
   <nav>
-    <ul class="flex justify-center gap-3">
+    <ul class="flex justify-left gap-3 mx-10">
       <li><a href="/">Home</a></li>
       <li><a href="/privacy-policy">Privacy Policy</a></li>
+      <li><a href="/countries/france">Countries</a></li>
     </ul>
   </nav>
 </div>
