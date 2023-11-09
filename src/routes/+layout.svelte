@@ -7,6 +7,7 @@
     <ul class="flex justify-left gap-3 mx-10">
       <li><a href="/">Home</a></li>
       <li><a href="/privacy-policy">Privacy Policy</a></li>
+      <li><a href="/login">Login</a></li>
       <li><a href="/countries/france">Countries</a></li>
     </ul>
   </nav>
@@ -16,6 +17,8 @@
   <slot />
 </div>
 
-<footer class="bg-purple-500/20 border-purple-600 py-5 text-center">
+<footer
+  class="bg-purple-500/20 dark:bg-slate-900 dark:text-cyan-100 py-5 text-center absolute inset-x-0 bottom-0"
+>
   Footer
 </footer>
